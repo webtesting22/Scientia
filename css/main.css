@@ -1239,7 +1239,7 @@ input::-moz-focus-inner {
 
 .subhead {
   font-family: "metropolis-semibold", sans-serif;
-  font-size: 2rem;
+  font-size: 4rem;
   line-height: 1.3125;
   letter-spacing: 0.25rem;
   color: #077cb1;
@@ -1295,7 +1295,7 @@ input::-moz-focus-inner {
   }
 
   .subhead {
-    font-size: 1.4rem;
+    font-size: 3.4rem;
   }
 }
 @media only screen and (max-width: 400px) {
@@ -2601,7 +2601,7 @@ html.no-csstransitions .home-content__main {
 .item-folio__project-link:hover,
 .item-folio__project-link:focus,
 .item-folio__project-link:active {
-  background-color: #cc147f;
+  background-color: #077cb1;
   color: #ffffff;
 }
 
@@ -3658,7 +3658,7 @@ img {
   .ag-timeline-card_point {
     height: 40px;
     line-height: 40px;
-    width: 40px;
+    width: 50px;
   }
   .ag-timeline-card_item {
     width: auto;
